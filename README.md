@@ -1,6 +1,6 @@
 <div align="center">
 
-# AgroSmart
+# Kisan Mind
 
 [![Try Kisan Mind](https://img.shields.io/badge/Try-AgroSmart-brightgreen?style=for-the-badge&logo=streamlit)](https://agrosmarts.streamlit.app/)
 
