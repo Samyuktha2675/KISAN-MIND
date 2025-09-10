@@ -1,4 +1,4 @@
-pip install dotenv
+pip install python-dotenv
 pip install google-generativeai
 pip install streamlit
 import streamlit as st
