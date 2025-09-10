@@ -1,6 +1,7 @@
 pip install dotenv
 pip install google-generativeai
-pip install streamlitimport streamlit as st
+pip install streamlit
+import streamlit as st
 import io
 from PIL import Image
 import base64
