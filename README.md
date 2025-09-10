@@ -109,6 +109,6 @@ We welcome contributions! Feel free to submit pull requests or open issues.
 
 <div align="center">
   
-[![Made with ❤️ by Samyuktha](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Shivam-red?style=for-the-badge)](https://github.com/Samyuktha2675)
+[![Made with ❤️ by Samyuktha](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Samyuktha-red?style=for-the-badge)](https://github.com/Samyuktha2675)
 
 </div>
