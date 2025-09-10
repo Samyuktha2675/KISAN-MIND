@@ -92,7 +92,7 @@ streamlit run app.py
 
 ## 👨‍💻 About the Developer
 
-I'm [**Samyuktha**](https://www.linkedin.com/in/samyukthajeevanantham/), an undergrad at IIT Madras passionate about Data Analyst.
+I'm [**Samyuktha**](https://www.linkedin.com/in/samyukthajeevanantham/), an undergrad at IIT Madras passionate Data Analyst.
 
 
 🌐 Connect with me
