@@ -37,7 +37,7 @@ Follow these simple steps to download and install the AgroSmart app on your loca
 Clone the repository to your local machine using Git. Open your terminal and run:
 
 ```bash
-git clone https://github.com/theshivam7/AgroSmart-App.git
+git clone https://github.com/Samyuktha2675/KisanMind-App.git
 ```
 
 #### Step 2: Navigate to the Project Directory
