@@ -2,7 +2,7 @@
 
 # Kisan Mind
 
-[![Try Kisan Mind](https://img.shields.io/badge/Try-AgroSmart-brightgreen?style=for-the-badge&logo=streamlit)](https://agrosmarts.streamlit.app/)
+[![Try Kisan Mind](https://img.shields.io/badge/Try-Kisan Mind-brightgreen?style=for-the-badge&logo=streamlit)](https://agrosmarts.streamlit.app/)
 
 
 **Open-source AI Plant detection that provides fast and accurate response.**
