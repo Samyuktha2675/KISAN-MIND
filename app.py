@@ -10,10 +10,10 @@ import time
 
 # Load environment variables from .env file
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("9f979a1895d1659de18dc8e9d96e2d64020545")
 
 # Initialize the OpenAI API client with the custom base URL
-client = OpenAI(api_key=api_key, base_url="https://api.perplexity.ai")
+client = OpenAI(api_key=api_key, base_url="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")
 
 def main():
     # Custom CSS for better styling
